@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Minevui Network',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Cộng đồng Minecraft Việt Nam',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Tài liệu',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Tin tức', position: 'left'},
           {
             href: 'https://github.com/Minevui/minevui-docs',
             label: 'GitHub',
