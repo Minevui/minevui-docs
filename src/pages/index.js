@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Chào mừng đến với ${siteConfig.title}`}
+      description="Minevui Network - Cộng đồng Minecraft lớn và mạnh mẽ hàng đầu Việt Nam!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
