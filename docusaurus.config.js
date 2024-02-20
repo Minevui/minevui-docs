@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Tài liệu',
-                to: '/docs/intro',
+                to: '/docs/start',
               },
             ],
           },
