@@ -36,15 +36,15 @@ Một số bạn chưa có tài khoản ngân hàng có thể gửi **thẻ nạ
 
 Khi các bạn donate thì sẽ nhận role **Donator** trong Discord và **Rank trong máy chủ game** tương ứng với mức đã ủng hộ. Cụ thể trong bảng dưới đây:
 
-| **Rank** | **Giá trị ủng hộ** | **Quyền lợi** |
-|----------|--------------------|---------------|
-| SVIP     | 1K -> dưới 50K     |               |
-| SVIP+    | 50K -> dưới 150K   |               |
-| SVIP++   | 150K -> dưới 300K  |               |
-| SSVIP    | 300K -> dưới 500K  |               |
-| SSVIP+   | 500K -> dưới 750K  |               |
-| SSVIP++  | 750K -> dưới 1M    |               |
-| SSSVIP   | 1M trở lên         |               |
+| **Rank** | **Giá trị ủng hộ** | **Kích cỡ balo** | **Quyền lợi khác** |
+|----------|--------------------|------------------|--------------------|
+| SVIP     | 1K -> dưới 50K     |       3 x 9      |                    |
+| SVIP+    | 50K -> dưới 150K   |       4 x 9      |                    |
+| SVIP++   | 150K -> dưới 300K  |       4 x 9      |                    |
+| SSVIP    | 300K -> dưới 500K  |       5 x 9      |                    |
+| SSVIP+   | 500K -> dưới 750K  |       5 x 9      |                    |
+| SSVIP++  | 750K -> dưới 1M    |       6 x 9      |                    |
+| SSSVIP   | 1M trở lên         |       6 x 9      |                    |
 
 > :warning: Các quyền lợi đang được tính toán và sẽ cập nhật liên tục! Các đặc quyền không mang tính tác động đến cân bằng trò chơi, không ảnh hưởng người khác.
 
