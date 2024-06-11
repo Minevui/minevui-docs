@@ -123,6 +123,11 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+        addId: 'UYQ8KXJRL5',
+        apiKey: '077121b8f7d4cbcb006f8ef6bd81d820',
+        indexName: 'minevui',
+      },
     }),
 };
 
