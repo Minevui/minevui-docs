@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkminevui_docs=self.webpackChunkminevui_docs||[]).push([[8913],{8913:(e,s,u)=>{u.r(s)}}]);
