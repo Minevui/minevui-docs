@@ -16,7 +16,6 @@ Các bạn có thể chuyển khoản cho mình qua các ngân hàng sau:
 | **Ngân hàng** | **Số tài khoản** |
 |---------------|------------------|
 | Sacombank     | 070119694599     |
-| TPBank        | 0911474065       |
 
 Hoặc qua các ví điện tử
 
@@ -36,15 +35,7 @@ Một số bạn chưa có tài khoản ngân hàng có thể gửi **thẻ nạ
 
 Khi các bạn donate thì sẽ nhận role **Donator** trong Discord và **Rank trong máy chủ game** tương ứng với mức đã ủng hộ. Cụ thể trong bảng dưới đây:
 
-| **Rank** | **Giá trị ủng hộ** | **Kích cỡ balo** | **Quyền lợi khác** |
-|----------|--------------------|------------------|--------------------|
-| SVIP     | 1K -> dưới 50K     |       3 x 9      |                    |
-| SVIP+    | 50K -> dưới 150K   |       4 x 9      |                    |
-| SVIP++   | 150K -> dưới 300K  |       4 x 9      |                    |
-| SSVIP    | 300K -> dưới 500K  |       5 x 9      |                    |
-| SSVIP+   | 500K -> dưới 750K  |       5 x 9      |                    |
-| SSVIP++  | 750K -> dưới 1M    |       6 x 9      |                    |
-| SSSVIP   | 1M trở lên         |       6 x 9      |                    |
+![donate perk](image.png)
 
 > :warning: Các quyền lợi đang được tính toán và sẽ cập nhật liên tục! Các đặc quyền không mang tính tác động đến cân bằng trò chơi, không ảnh hưởng người khác.
 
@@ -52,16 +43,18 @@ Khi các bạn donate thì sẽ nhận role **Donator** trong Discord và **Rank
 
 Dưới đây là danh sách các **Donator** đã ủng hộ cho MineVui! Xin chân thành cảm ơn các bạn đã góp phần duy trì máy chủ!
 
-| **Discord username** | **Tổng giá trị ủng hộ** |
-|----------------------|-------------------------|
-| orinowo              | 650.000                 |
-| _its.anna            | 370.000                 |
-| huytbb               | 300.000                 |
-| cheems2807           | 100.000                 |
-| shiluvaimeesm        | 100.000                 |
-| Byuni28#1242         | 75.000                  |
-| tranninh             | 70.000                  |
-| LH_Janne#2290        | 50.000                  |
-| naterds              | 31.000                  |
-| kkuhaku001           | 20.000                  |
-| cat7745              | 20.000                  |
+```
+#1 - @arumakaiyo (650k)
+#2 - @huytbb (300k)
+#3 - @maryw.shii (120k)
+#4 - @naterds (117k)
+#5 - @cheems2807 (100k )
+#6 - @byuni28 (75k)
+#7 - @tranninh (70k)
+#8 - @lh_janne2290 (50k)
+#9 - @kkuhaku001 (20k)
+#9 - @hieuhoangtrung (20k)
+#9 - @cat7445 (20k)
+#9 - @smthismiss (20k)
+#13 - @totallynotkhang (10k)
+```
