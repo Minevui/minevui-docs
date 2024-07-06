@@ -80,9 +80,14 @@ const config = {
                     },
                     { to: '/blog', label: 'Tin tức', position: 'left' },
                     {
+                        href: 'https://discord.gg/minevui',
+                        position: 'right',
+                        className: 'navbar--discord-link'
+                    },
+                    {
                         href: 'https://github.com/Minevui/minevui-docs',
-                        label: 'GitHub',
-                        position: 'right'
+                        position: 'right',
+                        className: 'navbar--github-link'
                     },
                     {
                         type: 'docsVersionDropdown'
