@@ -1,7 +1,7 @@
 {
-  "label": "Wiki hướng dẫn Minevui",
-  "position": 3,
-  "link": {
-    "type": "generated-index"
-  }
+    "label": "Wiki hướng dẫn Minevui",
+    "position": 3,
+    "link": {
+        "type": "generated-index"
+    }
 }

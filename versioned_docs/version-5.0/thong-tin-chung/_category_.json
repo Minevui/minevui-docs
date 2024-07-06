@@ -1,8 +1,8 @@
 {
-  "label": "Thông tin chung",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Các thông tin chung trong Minevui Network mà các thành viên muốn tham gia cần phải biết."
-  }
+    "label": "Thông tin chung",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "Các thông tin chung trong Minevui Network mà các thành viên muốn tham gia cần phải biết."
+    }
 }
