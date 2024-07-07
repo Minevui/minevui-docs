@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Đăng ký & Đăng nhập
 
 ## Vấn đề tài khoản của các server Minecraft
