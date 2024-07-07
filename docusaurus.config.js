@@ -102,7 +102,7 @@ const config = {
                         items: [
                             {
                                 label: 'Tài liệu',
-                                to: '/docs/start'
+                                to: '/docs/thong-tin-chung/gioi-thieu'
                             }
                         ]
                     },
