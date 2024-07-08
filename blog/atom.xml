@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minevui.xyz/blog</id>
     <title>Minevui Network Blog</title>
-    <updated>2024-06-29T00:00:00.000Z</updated>
+    <updated>2024-07-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://minevui.xyz/blog"/>
     <subtitle>Minevui Network Blog</subtitle>
     <icon>https://minevui.xyz/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cập nhật máy chủ 08/07]]></title>
+        <id>https://minevui.xyz/blog/update-08-07</id>
+        <link href="https://minevui.xyz/blog/update-08-07"/>
+        <updated>2024-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cập nhật phiên bản]]></summary>
+        <content type="html"><![CDATA[<p><strong>Cập nhật phiên bản</strong></p>
+<ul>
+<li>AdvancedEnchantments <code>9.9.10</code>: Thêm enchant mới <code>Harvest</code></li>
+<li>AngelChest <code>1.13.1</code></li>
+<li>ViaVersion <code>5.0.2-SNAPSHOT build 885</code></li>
+<li>ViaBackwards <code>5.0.2-SNAPSHOT build 446</code></li>
+<li>Giới hạn phiên bản client vào cụm sinh tồn <code>1.20 - 1.20.6</code></li>
+<li>Sửa lỗi và cải thiện hiệu suất.</li>
+</ul>]]></content>
+        <author>
+            <name>LE VAN DAT</name>
+            <uri>https://discord.gg/minevui</uri>
+        </author>
+        <category label="minevui" term="minevui"/>
+        <category label="update" term="update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cập nhật máy chủ 29/06]]></title>
         <id>https://minevui.xyz/blog/update-29-06</id>

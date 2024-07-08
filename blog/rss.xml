@@ -4,10 +4,28 @@
         <title>Minevui Network Blog</title>
         <link>https://minevui.xyz/blog</link>
         <description>Minevui Network Blog</description>
-        <lastBuildDate>Sat, 29 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>vi</language>
+        <item>
+            <title><![CDATA[Cập nhật máy chủ 08/07]]></title>
+            <link>https://minevui.xyz/blog/update-08-07</link>
+            <guid>https://minevui.xyz/blog/update-08-07</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cập nhật phiên bản]]></description>
+            <content:encoded><![CDATA[<p><strong>Cập nhật phiên bản</strong></p>
+<ul>
+<li>AdvancedEnchantments <code>9.9.10</code>: Thêm enchant mới <code>Harvest</code></li>
+<li>AngelChest <code>1.13.1</code></li>
+<li>ViaVersion <code>5.0.2-SNAPSHOT build 885</code></li>
+<li>ViaBackwards <code>5.0.2-SNAPSHOT build 446</code></li>
+<li>Giới hạn phiên bản client vào cụm sinh tồn <code>1.20 - 1.20.6</code></li>
+<li>Sửa lỗi và cải thiện hiệu suất.</li>
+</ul>]]></content:encoded>
+            <category>minevui</category>
+            <category>update</category>
+        </item>
         <item>
             <title><![CDATA[Cập nhật máy chủ 29/06]]></title>
             <link>https://minevui.xyz/blog/update-29-06</link>
