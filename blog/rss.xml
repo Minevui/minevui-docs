@@ -4,10 +4,37 @@
         <title>Minevui Network Blog</title>
         <link>https://minevui.xyz/blog</link>
         <description>Minevui Network Blog</description>
-        <lastBuildDate>Mon, 08 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>vi</language>
+        <item>
+            <title><![CDATA[Cập nhật máy chủ 09/07]]></title>
+            <link>https://minevui.xyz/blog/update-09-07</link>
+            <guid>https://minevui.xyz/blog/update-09-07</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cập nhật quan trọng]]></description>
+            <content:encoded><![CDATA[<p><strong>Cập nhật quan trọng</strong></p>
+<ul>
+<li>Thêm ItemsAdder để sử dụng custom model, texture nhằm chuẩn bị cho các vật phẩm mới.</li>
+<li>Vì thêm IA nên server sẽ bắt buộc tải và sử dụng ResourcePack, việc tải chỉ diễn ra lần đầu kết nối máy chủ và mỗi khi cập nhật lại server rsp.</li>
+<li>Một số tính năng của IA khi thêm vào server:<!-- -->
+<ul>
+<li>Nhiều trang bị, vũ khí mới</li>
+<li>Nhiều phương tiện giao thông mới</li>
+<li>Nhiều đồ trang trí mới</li>
+<li>Emoji <!-- -->😄</li>
+<li>Hiệu ứng văn bản</li>
+</ul>
+</li>
+</ul>
+<p><strong>Cập nhật phiên bản</strong></p>
+<ul>
+<li>AdvancedEnchantments <code>9.9.11</code></li>
+</ul>]]></content:encoded>
+            <category>minevui</category>
+            <category>update</category>
+        </item>
         <item>
             <title><![CDATA[Cập nhật máy chủ 08/07]]></title>
             <link>https://minevui.xyz/blog/update-08-07</link>

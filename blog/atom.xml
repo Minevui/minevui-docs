@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minevui.xyz/blog</id>
     <title>Minevui Network Blog</title>
-    <updated>2024-07-08T00:00:00.000Z</updated>
+    <updated>2024-07-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://minevui.xyz/blog"/>
     <subtitle>Minevui Network Blog</subtitle>
     <icon>https://minevui.xyz/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cập nhật máy chủ 09/07]]></title>
+        <id>https://minevui.xyz/blog/update-09-07</id>
+        <link href="https://minevui.xyz/blog/update-09-07"/>
+        <updated>2024-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cập nhật quan trọng]]></summary>
+        <content type="html"><![CDATA[<p><strong>Cập nhật quan trọng</strong></p>
+<ul>
+<li>Thêm ItemsAdder để sử dụng custom model, texture nhằm chuẩn bị cho các vật phẩm mới.</li>
+<li>Vì thêm IA nên server sẽ bắt buộc tải và sử dụng ResourcePack, việc tải chỉ diễn ra lần đầu kết nối máy chủ và mỗi khi cập nhật lại server rsp.</li>
+<li>Một số tính năng của IA khi thêm vào server:<!-- -->
+<ul>
+<li>Nhiều trang bị, vũ khí mới</li>
+<li>Nhiều phương tiện giao thông mới</li>
+<li>Nhiều đồ trang trí mới</li>
+<li>Emoji <!-- -->😄</li>
+<li>Hiệu ứng văn bản</li>
+</ul>
+</li>
+</ul>
+<p><strong>Cập nhật phiên bản</strong></p>
+<ul>
+<li>AdvancedEnchantments <code>9.9.11</code></li>
+</ul>]]></content>
+        <author>
+            <name>LE VAN DAT</name>
+            <uri>https://discord.gg/minevui</uri>
+        </author>
+        <category label="minevui" term="minevui"/>
+        <category label="update" term="update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cập nhật máy chủ 08/07]]></title>
         <id>https://minevui.xyz/blog/update-08-07</id>
