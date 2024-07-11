@@ -2,13 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minevui.xyz/blog</id>
     <title>Minevui Network Blog</title>
-    <updated>2024-07-09T00:00:00.000Z</updated>
+    <updated>2024-07-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://minevui.xyz/blog"/>
     <subtitle>Minevui Network Blog</subtitle>
     <icon>https://minevui.xyz/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Cập nhật máy chủ 09/07]]></title>
+        <title type="html"><![CDATA[Cập nhật máy chủ 11/07 - 5.2.0]]></title>
+        <id>https://minevui.xyz/blog/update-11-07</id>
+        <link href="https://minevui.xyz/blog/update-11-07"/>
+        <updated>2024-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cập nhật chính]]></summary>
+        <content type="html"><![CDATA[<p><strong>Cập nhật chính</strong></p>
+<ul>
+<li>Cài đặt và tối ưu máy chủ, cố gắng khắc phục tình trạng TPS tụt đáng kể trong thời gian dài gần đây.</li>
+<li>Quái bây giờ sẽ chỉ có một cấp độ của <code>AuraMobs</code></li>
+<li>Giới thiệu các vật phẩm mới đang được cân bằng và thử nghiệm trên máy chủ:<!-- -->
+<ul>
+<li>Gậy gỡ enchant: dùng để gỡ custom enchant ngẫu nhiên trên vật phẩm và chuyển enchant đó thành sách với tỉ lệ thành công 50% -&gt; 90%</li>
+<li>Gậy tăng slot enchant dùng để tăng số lượng custom enchant tối đa trên vật phẩm</li>
+<li>Các vật phẩm trang trí: bàn, ghế (có thể ngồi)</li>
+<li>Các phương tiện giao thông: xe, máy bay</li>
+<li>Các vũ khí mới</li>
+<li>Đơn vị tiền tệ mới dùng để trao đổi vật phẩm đặc biệt ở khu trade</li>
+</ul>
+</li>
+</ul>
+<p><strong>Cập nhật plugin</strong></p>
+<ul>
+<li>Thêm <code>KatsuAvatars</code> để hiển thị avatar người chơi ở một số nơi.</li>
+<li>Thêm <code>GriefPreventionFlags</code> nhằm thêm nhiều tuỳ chọn đặt biệt để quản lý khu vực claim.</li>
+<li>Thêm <code>RealisticSeasons</code> để thêm cơ chế <strong>mùa</strong> vào server gồm: Xuân, Hạ, Thu, Đông.</li>
+<li>Cập nhật SkinRestorer <code>15.1.0</code></li>
+<li>Cập nhật Shopkeepers <code>2.22.1</code></li>
+<li>Xoá bỏ LevelledMobs</li>
+</ul>]]></content>
+        <author>
+            <name>LE VAN DAT</name>
+            <uri>https://discord.gg/minevui</uri>
+        </author>
+        <category label="minevui" term="minevui"/>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cập nhật máy chủ 09/07 - 5.1.0]]></title>
         <id>https://minevui.xyz/blog/update-09-07</id>
         <link href="https://minevui.xyz/blog/update-09-07"/>
         <updated>2024-07-09T00:00:00.000Z</updated>
