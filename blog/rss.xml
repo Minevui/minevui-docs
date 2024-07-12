@@ -4,10 +4,29 @@
         <title>Minevui Network Blog</title>
         <link>https://minevui.xyz/blog</link>
         <description>Minevui Network Blog</description>
-        <lastBuildDate>Thu, 11 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>vi</language>
+        <item>
+            <title><![CDATA[Cập nhật máy chủ 12/07 - 5.2.1]]></title>
+            <link>https://minevui.xyz/blog/update-12-07</link>
+            <guid>https://minevui.xyz/blog/update-12-07</guid>
+            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cập nhật quan trọng]]></description>
+            <content:encoded><![CDATA[<p><strong>Cập nhật quan trọng</strong></p>
+<ul>
+<li>Loại bỏ cấp độ quái của <code>AuraMobs</code>, và chào mừng trở lại, <code>LevelledMobs</code> với độ khó cao nhất! (Tăng tất cả chỉ số, scale theo cấp nhưng bù lại sẽ drop XP nhiều hơn)</li>
+<li>Loại bỏ texture giúp phát sáng các quặng trong resourcepack</li>
+<li>Loại bỏ các quặng đặc biệt (ruby, aqua,...), các quặng người chơi đã sở hữu sẽ chuyển thành sắt</li>
+</ul>
+<p><strong>Cập nhật phiên bản</strong></p>
+<ul>
+<li>DiscordSRV <code>1.28.0 latest SNAPSHOT</code></li>
+</ul>]]></content:encoded>
+            <category>minevui</category>
+            <category>update</category>
+        </item>
         <item>
             <title><![CDATA[Cập nhật máy chủ 11/07 - 5.2.0]]></title>
             <link>https://minevui.xyz/blog/update-11-07</link>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkminevui_docs=self.webpackChunkminevui_docs||[]).push([[9267],{8289:e=>{e.exports=JSON.parse('[{"label":"minevui","permalink":"/blog/tags/minevui","count":4},{"label":"update","permalink":"/blog/tags/update","count":4}]')}}]);

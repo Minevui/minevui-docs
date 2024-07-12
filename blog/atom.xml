@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minevui.xyz/blog</id>
     <title>Minevui Network Blog</title>
-    <updated>2024-07-11T00:00:00.000Z</updated>
+    <updated>2024-07-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://minevui.xyz/blog"/>
     <subtitle>Minevui Network Blog</subtitle>
     <icon>https://minevui.xyz/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cập nhật máy chủ 12/07 - 5.2.1]]></title>
+        <id>https://minevui.xyz/blog/update-12-07</id>
+        <link href="https://minevui.xyz/blog/update-12-07"/>
+        <updated>2024-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cập nhật quan trọng]]></summary>
+        <content type="html"><![CDATA[<p><strong>Cập nhật quan trọng</strong></p>
+<ul>
+<li>Loại bỏ cấp độ quái của <code>AuraMobs</code>, và chào mừng trở lại, <code>LevelledMobs</code> với độ khó cao nhất! (Tăng tất cả chỉ số, scale theo cấp nhưng bù lại sẽ drop XP nhiều hơn)</li>
+<li>Loại bỏ texture giúp phát sáng các quặng trong resourcepack</li>
+<li>Loại bỏ các quặng đặc biệt (ruby, aqua,...), các quặng người chơi đã sở hữu sẽ chuyển thành sắt</li>
+</ul>
+<p><strong>Cập nhật phiên bản</strong></p>
+<ul>
+<li>DiscordSRV <code>1.28.0 latest SNAPSHOT</code></li>
+</ul>]]></content>
+        <author>
+            <name>LE VAN DAT</name>
+            <uri>https://discord.gg/minevui</uri>
+        </author>
+        <category label="minevui" term="minevui"/>
+        <category label="update" term="update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cập nhật máy chủ 11/07 - 5.2.0]]></title>
         <id>https://minevui.xyz/blog/update-11-07</id>
