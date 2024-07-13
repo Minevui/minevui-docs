@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minevui.xyz/blog</id>
     <title>Minevui Network Blog</title>
-    <updated>2024-07-12T00:00:00.000Z</updated>
+    <updated>2024-07-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://minevui.xyz/blog"/>
     <subtitle>Minevui Network Blog</subtitle>
     <icon>https://minevui.xyz/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cập nhật máy chủ 13/07 - Hotfix 5.2.2]]></title>
+        <id>https://minevui.xyz/blog/update-13-07</id>
+        <link href="https://minevui.xyz/blog/update-13-07"/>
+        <updated>2024-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cập nhật chính]]></summary>
+        <content type="html"><![CDATA[<p><strong>Cập nhật chính</strong></p>
+<ul>
+<li>Giảm sức mạnh của quái (LevelledMobs)</li>
+<li>Chỉnh sửa để resourcepack hoạt động chính xác</li>
+<li>Loại bỏ <code>Shopkeepers</code> và sử dụng <code>Citizens</code> để làm NPC trade</li>
+<li>Tối ưu hoá máy chủ</li>
+</ul>]]></content>
+        <author>
+            <name>LE VAN DAT</name>
+            <uri>https://discord.gg/minevui</uri>
+        </author>
+        <category label="minevui" term="minevui"/>
+        <category label="update" term="update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cập nhật máy chủ 12/07 - 5.2.1]]></title>
         <id>https://minevui.xyz/blog/update-12-07</id>

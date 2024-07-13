@@ -4,10 +4,26 @@
         <title>Minevui Network Blog</title>
         <link>https://minevui.xyz/blog</link>
         <description>Minevui Network Blog</description>
-        <lastBuildDate>Fri, 12 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>vi</language>
+        <item>
+            <title><![CDATA[Cập nhật máy chủ 13/07 - Hotfix 5.2.2]]></title>
+            <link>https://minevui.xyz/blog/update-13-07</link>
+            <guid>https://minevui.xyz/blog/update-13-07</guid>
+            <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cập nhật chính]]></description>
+            <content:encoded><![CDATA[<p><strong>Cập nhật chính</strong></p>
+<ul>
+<li>Giảm sức mạnh của quái (LevelledMobs)</li>
+<li>Chỉnh sửa để resourcepack hoạt động chính xác</li>
+<li>Loại bỏ <code>Shopkeepers</code> và sử dụng <code>Citizens</code> để làm NPC trade</li>
+<li>Tối ưu hoá máy chủ</li>
+</ul>]]></content:encoded>
+            <category>minevui</category>
+            <category>update</category>
+        </item>
         <item>
             <title><![CDATA[Cập nhật máy chủ 12/07 - 5.2.1]]></title>
             <link>https://minevui.xyz/blog/update-12-07</link>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkminevui_docs=self.webpackChunkminevui_docs||[]).push([[1838],{3722:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/update","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
