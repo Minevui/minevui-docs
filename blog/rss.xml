@@ -4,10 +4,44 @@
         <title>Minevui Network Blog</title>
         <link>https://minevui.xyz/blog</link>
         <description>Minevui Network Blog</description>
-        <lastBuildDate>Sat, 13 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>vi</language>
+        <item>
+            <title><![CDATA[Cập nhật máy chủ 15/07 - 5.3.0]]></title>
+            <link>https://minevui.xyz/blog/update-15-07</link>
+            <guid>https://minevui.xyz/blog/update-15-07</guid>
+            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thay đổi máy chủ]]></description>
+            <content:encoded><![CDATA[<p><strong>Thay đổi máy chủ</strong></p>
+<ul>
+<li>Sửa lỗi khiến nametag người chơi không hiển thị đúng khi đang combat</li>
+<li>Sửa lỗi tương thích giữa <code>GriefPrevention</code> và <code>PvPManager</code></li>
+<li>Thêm cơ chế stack với một số mob đặc biệt (ENDERMAN, ZOMBIE, SKELETON, CREEPER, SPIDER, ZOMBIFIED_PIGLIN)</li>
+<li>Tạm thời gỡ bỏ <code>RealisticSeasons</code></li>
+<li>Tạm thời gỡ bỏ <strong>LevelledMobs</strong>, quái giờ sẽ không có level, đổi lại:<!-- -->
+<ul>
+<li>Lượng XP cơ bản nhận từ mọi người của người chơi sẽ tăng lên 200%</li>
+<li><code>spawn-limits</code> của quái tăng từ <code>100</code> lên <code>120</code></li>
+</ul>
+</li>
+</ul>
+<p><strong>Cập nhật phiên bản</strong></p>
+<ul>
+<li>AdvancedEnchantments <code>9.9.14</code></li>
+<li>ShopGUI+ <code>1.97.1</code></li>
+<li>zAuctionHouse <code>3.2.2.0</code></li>
+<li>EssentialsX <code>2.21.0-dev+104-33e086f</code></li>
+<li>DecentHolograms <code>2.8.9</code></li>
+<li>zmenu <code>1.0.3.3</code></li>
+<li>FastAsyncWorldEdit <code>2.11.1-SNAPSHOT build 849</code></li>
+<li>ViaVersion <code>5.0.2-SNAPSHOT build 889</code></li>
+<li>ViaBackwards <code>5.0.2-SNAPSHOT build 451</code></li>
+</ul>]]></content:encoded>
+            <category>minevui</category>
+            <category>update</category>
+        </item>
         <item>
             <title><![CDATA[Cập nhật máy chủ 13/07 - Hotfix 5.2.2]]></title>
             <link>https://minevui.xyz/blog/update-13-07</link>
