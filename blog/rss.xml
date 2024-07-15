@@ -22,7 +22,7 @@
 <li>Tạm thời gỡ bỏ <code>RealisticSeasons</code></li>
 <li>Tạm thời gỡ bỏ <strong>LevelledMobs</strong>, quái giờ sẽ không có level, đổi lại:<!-- -->
 <ul>
-<li>Lượng XP cơ bản nhận từ mọi người của người chơi sẽ tăng lên 200%</li>
+<li>Lượng XP cơ bản nhận từ mọi nguồn của người chơi sẽ tăng lên <code>200%</code></li>
 <li><code>spawn-limits</code> của quái tăng từ <code>100</code> lên <code>120</code></li>
 </ul>
 </li>
