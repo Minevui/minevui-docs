@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkminevui_docs=self.webpackChunkminevui_docs||[]).push([[8947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"LE VAN DAT","title":"Minevui Owner","url":"https://discord.gg/minevui","imageURL":"https://github.com/lvdat.png","key":"lvdat","page":null,"count":7}]}')}}]);
