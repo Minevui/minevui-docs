@@ -3,41 +3,17 @@ sidebar_position: 1
 ---
 
 # Giới thiệu
+Minevui Network là server Minecraft với chế độ chính là sinh tồn cùng các chế độ chơi giải trí khác.
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+## Tham gia Minevui mùa 7.5
+- IP: `minevui.io.vn`
+- Phiên bản hỗ trợ: `Java Edition 1.18.1 - 1.21.x`
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+## Danh sách chế độ chơi hiện tại
+- :white_check_mark: Sinh tồn (chế độ chơi chính)
+- :white_check_mark: Prison
 
-## Create your first React Page
+> :warning: Danh sách chế độ sẽ thay đổi tuỳ thuộc vào điều kiện trong khoảng thời gian nhất định.
 
-Create a file at `src/pages/my-react-page.js`:
-
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+## Hỗ trợ
+- Tham gia Discord của máy chủ tại: https://discord.gg/minevui
