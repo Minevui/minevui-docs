@@ -111,7 +111,7 @@ const config = {
                         items: [
                             {
                                 label: 'Discord',
-                                href: 'https://dsc.gg/minevui'
+                                href: 'https://discord.gg/minevui'
                             }
                         ]
                     },
