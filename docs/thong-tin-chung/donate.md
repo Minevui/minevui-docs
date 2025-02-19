@@ -29,11 +29,14 @@ Hoặc qua các ví điện tử
 ### Donate khi không có tài khoản ngân hàng
 
 Một số bạn chưa có tài khoản ngân hàng có thể gửi **thẻ nạp điện thoại** trực tiếp cho mình qua Discord.
+> :warning: Không khuyến khích!
 
 ## Quyền lợi của Donator
 ### Role VIP
 
 Khi các bạn donate thì sẽ nhận role **Donator** trong Discord và **Rank trong máy chủ game** tương ứng với mức đã ủng hộ. Cụ thể trong bảng dưới đây:
+
+> :warning: Chú ý quyền lợi chỉ áp dụng với cụm máy chủ sinh tồn được làm bởi mình (**why**), các cụm chế độ khác sẽ tuỳ thuộc vào tình hình điều kiện mà có đặc quyền riêng!
 
 ![donate perk](image.png)
 
@@ -42,19 +45,24 @@ Khi các bạn donate thì sẽ nhận role **Donator** trong Discord và **Rank
 ## Lời cảm ơn
 
 Dưới đây là danh sách các **Donator** đã ủng hộ cho MineVui! Xin chân thành cảm ơn các bạn đã góp phần duy trì máy chủ!
+> :warning: Danh sách cập nhật ngày 16/02/2025
 
 ```
 #1 - @arumakaiyo (650k)
-#2 - @huytbb (300k)
-#3 - @maryw.shii (120k)
-#4 - @naterds (117k)
-#5 - @cheems2807 (100k )
-#6 - @byuni28 (75k)
-#7 - @tranninh (70k)
-#8 - @lh_janne2290 (50k)
-#9 - @kkuhaku001 (20k)
-#9 - @hieuhoangtrung (20k)
-#9 - @cat7445 (20k)
-#9 - @smthismiss (20k)
-#13 - @totallynotkhang (10k)
+#2 - @huytbb (330k)
+#3 - @naterds (305k)
+#4 - @_simp.bbiwhan (220k)
+#5 - @totallynotkhang (150k)
+#6 - @cheems2807 (100k )
+#7 - @byuni28 (75k)
+#8 - @givemeunique321 (70k)
+#9 - @lh_jannnnnne  (50k)
+#10 - @dark_traan (24k)
+#11 - @kkuhaku001 (20k)
+#11 - @hieuhoangtrung (20k)
+#11 - @kudozu_suru (20k)
+#11 - @tthedepressed (20k)
+#11 - @bach.hac (20k)
+#11 - @hinambebee  (20k)
+#17 - @hyleeowo (10k)
 ```
